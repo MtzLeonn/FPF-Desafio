@@ -21,12 +21,6 @@ Após ter as instalações, crie um banco chamado "fpf_db" e depois siga os pass
 
 ### Caso seja necessário altere as credenciais para o acesso ao banco de dados neste arquivo knexfile.js na pasta backend/
 
-### Clone este repositório
-$ git clone < >
-
-### Acesse a pasta do projeto via terminal/cmd
-$ cd fpf_desafio
-
 # Frontend
 
 ### Vá para a pasta frontend/
